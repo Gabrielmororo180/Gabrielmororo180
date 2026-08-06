@@ -1,10 +1,10 @@
 # 👨🏻‍💻 Gabriel Mororó
 
-**`Software Engineer | Backend Developer`**
+**`Software Engineer | Fullstack Developer`**
 
 Software developer focused on building scalable, maintainable, and high-performance applications. Experienced in backend development, RESTful APIs, ERP systems, desktop applications, and software architecture, with a strong emphasis on clean code, scalability, and best engineering practices.
 
-My primary stack includes **Node.js**, **TypeScript**, **Laravel**, **MySQL**, **Docker**, and **Delphi**. I enjoy designing robust systems, applying modern software architecture principles, and continuously improving development workflows.
+My primary stack includes **Node.js**, **TypeScript**, **Laravel**, **MySQL**, **Docker**,**Nextjs**,**React** and **Delphi**. I enjoy designing robust systems, applying modern software architecture principles, and continuously improving development workflows.
 
 Currently pursuing a Bachelor's degree in **Computer Engineering** at **UTFPR**, while expanding my expertise in software architecture, cloud computing, distributed systems, and DevOps.
 
