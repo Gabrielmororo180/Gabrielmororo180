@@ -6,7 +6,7 @@ Software developer focused on building scalable, maintainable, and high-performa
 
 My primary stack includes **Node.js**, **TypeScript**, **Laravel**, **MySQL**, **Docker**, **Nextjs**, **React** and **Delphi**. I enjoy designing robust systems, applying modern software architecture principles, and continuously improving development workflows.
 
-Currently pursuing a Bachelor's degree in **Computer Engineering** at **UTFPR**, while expanding my expertise in software architecture, cloud computing, distributed systems, and DevOps.
+Currently pursuing a Bachelor's degree in **Computer Engineering** at **UTFPR**, while expanding my expertise in software architecture, cloud computing, distributed systems.
 
 <p align="left">
     <a href="https://github.com/Gabrielmororo180?tab=followers">
