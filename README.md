@@ -147,7 +147,7 @@ Currently pursuing a Bachelor's degree in **Computer Engineering** at **UTFPR**,
     src="https://github-readme-stats-orpin-seven-28.vercel.app/api/top-langs/?username=Gabrielmororo180&layout=compact&langs_count=8&theme=tokyonight"
   />
 </p>
-## 🚀 What I'm Working On
+ What I'm Working On
 
 - 🔹 Scalable Backend Applications
 - 🔹 RESTful API Development
@@ -161,7 +161,7 @@ Currently pursuing a Bachelor's degree in **Computer Engineering** at **UTFPR**,
 
 ---
 
-## 🤝 Connect with Me
+##  Connect with Me
 
 <p align="left">
     <a href="https://github.com/Gabrielmororo180">
